@@ -29,7 +29,7 @@ Our system is an effective and user-friendly programme created to make the proce
 *Code Structure*:   
 The code is organised around classes for tickets and payments, and it includes methods for booking, displaying, and processing payments. Additionally, it uses functions for displaying the seating arrangement and generating electronic tickets.
 
-*Class Diagram*
+*Class Diagram*:
 ![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/140517711/3dcbed2f-0948-4df4-80c7-adf72b947df1)
 
 
