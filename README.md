@@ -37,14 +37,14 @@ The code is organised around classes for tickets and payments, and it includes m
 
 
 
-                  <h align="center">Test case 0: booking a ticket</h>
+<h>Test case 0: booking a ticket</h>
 ![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/e619a4cc-4b0c-4ac9-80c7-302209962597)
 
-                   Test case 1: invalid cvv
+::::Test case 1: invalid cvv
 ![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/02042fa2-9988-4717-9c0b-a3f37ca520ab)
 
-                   Test case 2: invalid date
+Test case 2: invalid date
 ![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/90c52092-ac94-4492-8cf0-41c361d383f2)
 
-                   Test case 3: invalid phone number
+Test case 3: invalid phone number
 ![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/ea8e2256-37c6-4196-bbf1-1011862bbf64)
