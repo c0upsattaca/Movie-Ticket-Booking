@@ -23,13 +23,20 @@ Our system is an effective and user-friendly programme created to make the proce
 3.	Users enter payment data, such as credit card information or a UPI phone number.
 4.	The system creates an electronic ticket containing the movie and showtime information after a successful payment.
 
-![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/e619a4cc-4b0c-4ac9-80c7-302209962597)
-![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/02042fa2-9988-4717-9c0b-a3f37ca520ab)
-![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/90c52092-ac94-4492-8cf0-41c361d383f2)
-![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/ea8e2256-37c6-4196-bbf1-1011862bbf64)
 
 *Technology Used*:  C++ for code development
 
 *Code Structure*:   
 The code is organised around classes for tickets and payments, and it includes methods for booking, displaying, and processing payments. Additionally, it uses functions for displaying the seating arrangement and generating electronic tickets.
 
+
+
+
+
+![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/e619a4cc-4b0c-4ac9-80c7-302209962597)
+
+![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/02042fa2-9988-4717-9c0b-a3f37ca520ab)
+
+![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/90c52092-ac94-4492-8cf0-41c361d383f2)
+
+![image](https://github.com/c0upsattaca/Movie-Ticket-Booking/assets/143819592/ea8e2256-37c6-4196-bbf1-1011862bbf64)
