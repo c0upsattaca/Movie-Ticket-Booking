@@ -8,9 +8,13 @@ Traditional methods of purchasing movie tickets can be difficult and time-consum
 Our system is an effective and user-friendly programme created to make the procedure of making movie ticket reservations simpler and less time consuming. Through the provision of a digital platform that enables customers to select movies, choose seats, and make safe payments, it aims to improve the experience of purchasing movie tickets traditionally.
 
 *Key Features*:
+
 •	Movie Selection: Users can look through the list of movies and showtimes to decide the movie they want to see.
+
 •	Seat Reservation: The system offers a simple interface that enables customers to choose their seat column and row.
+
 •	Users have the choice of paying for their tickets either with a credit card or a UPI payment option.
+
 •	E-Ticket Generation: Following a successful reservation, the system generates an eye-catching e-ticket that includes a summary of the movie information, showtime and seat details.
 
 *Working Of The System*:
