@@ -3,7 +3,7 @@
 Traditional methods of purchasing movie tickets can be difficult and time-consuming, which can often make users frustrated. As a solution to this, our platform seeks to provide a more straightforward, user friendly and convenient method for booking movie tickets and seats, thus enhancing the overall booking experience for the user.
 
 *Title*: Online Movie Ticket Booking System
-
+     
 *Description of System*: 
 Our system is an effective and user-friendly programme created to make the procedure of making movie ticket reservations simpler and less time consuming. Through the provision of a digital platform that enables customers to select movies, choose seats, and make safe payments, it aims to improve the experience of purchasing movie tickets traditionally.
 
